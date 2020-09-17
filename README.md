@@ -1,5 +1,5 @@
 ### Hi my name is Josh Guarino. 👋
-### I'm a software Engineer and IT Professional.
+### Software Engineer and IT Professional.
 
 https://joshguarino.dev
 
