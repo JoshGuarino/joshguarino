@@ -1,4 +1,4 @@
-### Hi my name is Josh Guarino. 👋
+### Hi my name is Josh Guarino. 
 ### Software Engineer and IT Professional.
 
 https://joshguarino.pythonanywhere.com
