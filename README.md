@@ -1,4 +1,5 @@
-### Hi my name is Josh Guarino. 
+### Hi my name is Josh Guarino. ![image](https://user-images.githubusercontent.com/35942953/114085993-15911e80-9880-11eb-8c4f-343f4b2a8e32.png)
+
 ### Software Engineer and IT Professional.
 
 https://joshguarino.pythonanywhere.com
