@@ -1,6 +1,6 @@
-### Hi my name is Josh Guarino. ![image](https://user-images.githubusercontent.com/35942953/114085993-15911e80-9880-11eb-8c4f-343f4b2a8e32.png)
+### Hi my name is Josh Guarino
 
-### Software Engineer at   ![image](https://user-images.githubusercontent.com/35942953/123706148-e57d6a00-d835-11eb-9317-1f64e6907ea2.png)
+### I'm a Software Engineer
 
 https://joshguarino.pythonanywhere.com
 
