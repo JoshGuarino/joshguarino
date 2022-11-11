@@ -2,8 +2,6 @@
 
 ### I'm a Software Engineer
 
-https://joshguarino.pythonanywhere.com
-
 <!--
 **JoshGuarino/joshguarino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
