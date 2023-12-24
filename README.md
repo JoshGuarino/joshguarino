@@ -2,6 +2,8 @@
 
 ### I'm a Software Engineer
 
+I'm skilled Engineer with 5+ years of experience as a Software Engineer and 5 years as QA/SDET Engineer, with 10+ years experience in total. Expertise in a variety of programming languages and technologies.
+
 <!--
 **JoshGuarino/joshguarino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
