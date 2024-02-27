@@ -1,6 +1,8 @@
 ### Hi my name is Josh Guarino
 
-I'm a skilled Engineer with 6+ years of experience as a Software Engineer and 5 years as QA/SDET Engineer, with 10+ years experience in total. I have expertise in a variety of programming languages and technologies.
+Experienced Software Engineer with 6+ years of as a Full Stack Software Engineer and 5 years of as QA/SDET Engineer, with 10+
+years in total. Expertise in a variety of programming languages and technologies.
+
 
 <!--
 **JoshGuarino/joshguarino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
