@@ -9,6 +9,12 @@ years in total. Expertise in a variety of programming languages and technologies
 
 ### Github Activity
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#66](https://github.com/zbirenbaum/nvterm/issues/66) in [zbirenbaum/nvterm](https://github.com/zbirenbaum/nvterm)
+2. 🎉 Merged PR [#13](https://github.com/JoshGuarino/carsfast/pull/13) in [JoshGuarino/carsfast](https://github.com/JoshGuarino/carsfast)
+3. 🎉 Merged PR [#5](https://github.com/JoshGuarino/pokedex/pull/5) in [JoshGuarino/pokedex](https://github.com/JoshGuarino/pokedex)
+4. 🎉 Merged PR [#3](https://github.com/JoshGuarino/vulnerability-checker/pull/3) in [JoshGuarino/vulnerability-checker](https://github.com/JoshGuarino/vulnerability-checker)
+5. 🎉 Merged PR [#9](https://github.com/JoshGuarino/jguarino-web/pull/9) in [JoshGuarino/jguarino-web](https://github.com/JoshGuarino/jguarino-web)
+<!--END_SECTION:activity-->
 
 <!--
 **JoshGuarino/joshguarino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
