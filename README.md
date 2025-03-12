@@ -3,9 +3,10 @@
 Experienced Software Engineer with 7+ years of as a Software Engineer and 5 years of as QA/SDET Engineer, with 10+
 years in total. Expertise in a variety of programming languages and technologies.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joshguarino&show_icons=true&theme=tokyonight&hide=stars&include_all_commits=false&count_private=true" />
-</a>
+## Stats
+![joshguarino's Stats](https://github-readme-stats.vercel.app/api?username=joshguarino&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
+![joshguarino's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshguarino&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
+
 <!--
 **JoshGuarino/joshguarino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
