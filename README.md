@@ -7,6 +7,8 @@ years in total. Expertise in a variety of programming languages and technologies
    <img width="425" src="https://streak-stats.demolab.com?user=joshguarino&theme=gruvbox&hide_border=true" alt="joshguarino's GitHub Stats" />
 </div>
 
+<!--START_SECTION:activity-->
+
 <!--
 **JoshGuarino/joshguarino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
