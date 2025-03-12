@@ -2,8 +2,10 @@
  I am an experienced Software Engineer with 7+ years of as a Software Engineer and 5 years of as QA/SDET Engineer, with 10+
 years in total. Expertise in a variety of programming languages and technologies.
 ## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=joshguarino&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=joshguarino&theme=gruvbox&hide_border=false)
+<div align="center">
+   <img width="400" src="https://github-readme-stats.vercel.app/api?username=joshguarino&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=true" />
+   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=joshguarino&theme=gruvbox&hide_border=true" />
+</div>
 
 <!--
 **JoshGuarino/joshguarino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
