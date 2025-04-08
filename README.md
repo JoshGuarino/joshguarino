@@ -1,5 +1,5 @@
 # Josh Guarino
-I am an experienced Software Engineer with 7+ years of as a Software Engineer and 5 years of as QA/SDET Engineer, with 10+
+I am an experienced Software Engineer with 8+ years of as a Software Engineer and 5 years of as QA/SDET Engineer, with 12+
 years in total. Expertise in a variety of programming languages and technologies.
 ### GitHub Stats
 
