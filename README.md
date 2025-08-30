@@ -4,8 +4,8 @@ years in total. Expertise in a variety of programming languages and technologies
 ### GitHub Stats
 
 <div align="center">
-   <img width="400" src="https://github-readme-stats.vercel.app/api?username=joshguarino&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="joshguarino's GitHub Stats" />
-   <img width="425" src="https://github-readme-streak-stats-joshguarinos-projects.vercel.app?user=joshguarino&theme=dracula&hide_border=true" alt="joshguarino's GitHub Stats" />
+   <img width="400" src="https://github-readme-stats.vercel.app/api?username=joshguarino&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="joshguarino's GitHub Stats" />
+   <img width="425" src="https://github-readme-streak-stats-joshguarinos-projects.vercel.app?user=joshguarino&theme=tokyonight&hide_border=true" alt="joshguarino's GitHub Stats" />
 </div>
 
 <!--
