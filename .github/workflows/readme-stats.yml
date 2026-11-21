@@ -35,7 +35,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=joshguarino&theme=tokyonight&layout=donut-vertical&hide_border=true
+          options: username=joshguarino&theme=tokyonight&layout=donut&hide_border=true
           path: profile/top-langs-donut.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
