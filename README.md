@@ -3,11 +3,11 @@ I am an experienced Software Engineer with 8+ years as a Software Engineer and 5
 years in total. Expertise in a variety of programming languages and technologies.
 
 <div align="center">
-   <img width="49%" src="./profile/stats.svg" alt="joshguarino's GitHub Stats" />
    <img width="49%" src="./profile/top-langs.svg" alt="joshguarino's Top Languages" />
-   <br />
-   <img width="49%" src="https://github-readme-streak-stats-joshguarinos-projects.vercel.app?user=joshguarino&theme=tokyonight&hide_border=true" alt="joshguarino's GitHub Streak" />
    <img width="49%" src="./profile/top-langs-donut.svg" alt="joshguarino's Language Donut" />
+   <br />
+   <img width="49%" src="./profile/stats.svg" alt="joshguarino's GitHub Stats" />
+   <img width="49%" src="https://github-readme-streak-stats-joshguarinos-projects.vercel.app?user=joshguarino&theme=tokyonight&hide_border=true" alt="joshguarino's GitHub Streak" />
 </div>
 
 <div align="center">
