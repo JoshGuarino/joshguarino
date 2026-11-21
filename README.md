@@ -4,8 +4,35 @@ years in total. Expertise in a variety of programming languages and technologies
 ### GitHub Stats
 
 <div align="center">
-   <img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=joshguarino&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="joshguarino's GitHub Stats" />
-   <img width="425" src="https://github-readme-streak-stats-joshguarinos-projects.vercel.app?user=joshguarino&theme=tokyonight&hide_border=true" alt="joshguarino's GitHub Stats" />
+   <img width="400" src="./profile/stats.svg" alt="joshguarino's GitHub Stats" />
+   <img width="425" src="./profile/top-langs.svg" alt="joshguarino's Top Languages" />
+   <img width="425" src="https://github-readme-streak-stats-joshguarinos-projects.vercel.app?user=joshguarino&theme=tokyonight&hide_border=true" alt="joshguarino's GitHub Streak" />
+</div>
+
+### Trophies
+
+<div align="center">
+   <img width="800" src="https://github-profile-trophy.vercel.app/?username=joshguarino&theme=tokyonight&no-frame=true&row=1&column=6" alt="joshguarino's Trophies" />
+</div>
+
+### Contribution Graph
+
+<div align="center">
+   <img width="800" src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=joshguarino&theme=tokyo-night&hide_border=true" alt="joshguarino's Contribution Graph" />
+</div>
+
+### Snake
+
+<div align="center">
+   <img src="./profile/snake.svg" alt="joshguarino's contribution snake" />
+</div>
+
+### Tech Stack
+
+<div align="center">
+   <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=go,nodejs,python,docker,kubernetes,react,ts,aws,js,git,linux,lua,vim,neovim,tmux,bash&theme=dark" alt="Tech Stack" />
+   </a>
 </div>
 
 ### Support Me
