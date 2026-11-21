@@ -31,6 +31,14 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate top languages donut card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=joshguarino&theme=tokyonight&layout=donut-vertical&hide_border=true
+          path: profile/top-langs-donut.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate snake
         uses: Platane/snk/svg-only@v3
         with:
