@@ -5,9 +5,6 @@ years in total. Expertise in a variety of programming languages and technologies
 <div align="center">
    <img width="49%" src="./profile/stats.svg" alt="joshguarino's GitHub Stats" />
    <img width="49%" src="https://github-readme-streak-stats-joshguarinos-projects.vercel.app?user=joshguarino&theme=tokyonight&hide_border=true" alt="joshguarino's GitHub Streak" />
-   <br />
-   <img width="49%" src="./profile/top-langs.svg" alt="joshguarino's Top Languages" />
-   <img width="49%" src="./profile/top-langs-donut.svg" alt="joshguarino's Language Donut" />
 </div>
 
 <div align="center">
